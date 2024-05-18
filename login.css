@@ -1,0 +1,11 @@
+
+
+#right-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#visit-counter {
+    margin-top: 10px;
+}
